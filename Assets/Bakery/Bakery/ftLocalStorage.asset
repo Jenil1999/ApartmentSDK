@@ -1,0 +1,65 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 05ca84e725c7c764aa5ed097918d14b7, type: 3}
+  m_Name: ftLocalStorage
+  m_EditorClassIdentifier: 
+  modifiedAssetPathList:
+  - Assets/Bakery/examples/content/sponza/sponza.FBX
+  - Assets/Client/Global/Model/Callinova/Updated Assets/StepMvpOrange_mesh.fbx
+  - Assets/Client/Global/Model/Callinova/Updated Assets/SteppingStone_mesh.fbx
+  - Assets/Client/Global/Model/Callinova/Updated Assets/StationBase_mesh.fbx
+  - Assets/Client/Global/Model/Callinova/Updated Assets/KanePlazaPark_mesh.fbx
+  - Assets/Client/Global/Model/Callinova/Updated Assets/StationConnectors_mesh.fbx
+  - Assets/Client/Global/Model/Callinova/Updated Assets/OuterPipes_mesh.fbx
+  - Assets/Client/Global/Model/Callinova/Updated Assets/TrainStationRailing_mesh.fbx
+  - Assets/Client/Global/Model/Callinova/Updated Assets/TrainStationSupports_mesh.fbx
+  - Assets/Client/Global/Model/Callinova/Updated Assets/TrainStation_mesh.fbx
+  - Assets/Client/Global/Model/Callinova/Updated Assets/TrainStationGlass_mesh.fbx
+  - Assets/Client/Global/Model/Callinova/Updated Assets/TrainStationFloor_mesh.fbx
+  - Assets/Client/Global/Model/Callinova/Updated Assets/TrainStationBarrier_mesh.fbx
+  - Assets/Client/Global/Model/Callinova/Updated Assets/TrainStationCanopy_mesh.fbx
+  - Assets/Client/Global/Model/Avatar/Updated Assets/OuterTrim01_mesh.fbx
+  - Assets/Client/Global/Model/Avatar/Updated Assets/CenterTrim01_mesh.fbx
+  - Assets/Client/Global/Model/Avatar/Updated Assets/CenterTrim02_mesh.fbx
+  - Assets/Client/Global/Model/Avatar/Updated Assets/OuterTrim02_mesh.fbx
+  - Assets/Client/Global/Model/Avatar/Updated Assets/RoadLower_mesh.fbx
+  - Assets/Client/Global/Model/Avatar/Updated Assets/RoadUpper_mesh.fbx
+  - Assets/Client/Global/Model/Avatar/Updated Assets/GrassCenter_mesh.fbx
+  - Assets/Client/Global/Model/Avatar/Updated Assets/Grass02_mesh.fbx
+  - Assets/Client/Global/Model/Avatar/Updated Assets/StepMVP_mesh.fbx
+  - Assets/Rfox_ArtWork/1-Models/Callinova/Updated Assets/Amphitheater_mesh.fbx
+  - Assets/Client/Global/Model/Avatar/Updated Assets/RFoxBuilding02_mesh.fbx
+  - Assets/Client/Global/Model/Callinova/Updated Assets/CenterTrim02_mesh.fbx
+  - Assets/Client/Global/Model/Callinova/Updated Assets/RoadUpper_mesh.fbx
+  - Assets/Client/Global/Model/Callinova/Updated Assets/StepMVP_mesh.fbx
+  - Assets/Client/Global/Model/Callinova/Updated Assets/CenterTrim01_mesh.fbx
+  - Assets/Rfox_ArtWork/1-Models/Callinova/Updated Assets/ShopDoor_mesh.fbx
+  - Assets/Client/Global/Calinova_2.0/Meshes/CallinovaStep_mesh.fbx
+  - Assets/Rfox_ArtWork/1-Models/Callinova/Updated Assets/RFoxBuilding01_mesh.fbx
+  - Assets/Client/Global/Calinova_2.0/NatureManufacture Assets/Meadow Environment
+    Dynamic Nature/Rocks/Rocks/Models/Rock_07.FBX
+  - Assets/Client/Global/Calinova_2.0/NatureManufacture Assets/Meadow Environment
+    Dynamic Nature/Rocks/Rocks/Models/Rock_05.FBX
+  - Assets/Client/Global/Calinova_2.0/NatureManufacture Assets/Meadow Environment
+    Dynamic Nature/Rocks/Rocks/Models/Rock_03_cut.FBX
+  - Assets/Rfox_ArtWork/1-Models/Callinova/Updated Assets/Umbrella_mesh.fbx
+  - Assets/Client/Global/Arkomoto/Art/3D_Models/Arkamoto/CenterPathRing01_mesh.fbx
+  - Assets/Client/Global/Calinova_2.0/Meshes/FloatingPost02_mesh.fbx
+  - Assets/Client/Global/Model/Callinova/Updated Assets/GrassCenter_mesh.fbx
+  - Assets/Client/Global/Model/Callinova/Updated Assets/OuterTrim02_mesh.fbx
+  - Assets/Client/Global/Model/Callinova/Updated Assets/OuterTrim01_mesh.fbx
+  - Assets/Rfox_ArtWork/1-Models/Callinova/Updated Assets/RFoxBuildingDome_mesh.fbx
+  - Assets/Client/Global/Calinova_2.0/NatureManufacture Assets/Meadow Environment
+    Dynamic Nature/Rocks/Rocks/Models/Rock_02_cut.FBX
+  - Assets/Client/Global/Model/Callinova/Updated Assets/RoadLower_mesh.fbx
+  - Assets/Client/Global/Model/Callinova/Updated Assets/Grass02_mesh.fbx
+  modifiedAssetPaddingHash: d6a958ffdf4dfff0194efff0363fd3d93f3fd3d9363fd3d9363fd3d9323fd3d93f3fd3d9363fd3d9333fd3d9393fd3d9333fd3d9363fd3d9363fd3d9393fd3d9393fd3d9363fd3d9393fd3d9363fd3d9363fd3d9363fd3d9567e93637b8f1ac2363fd3d9393fd3d9363fd3d9567e9363393fd3d94adc894b81b468411dfc933b2c01ef8442fffc9a08cd89f9491acafd363fd3d98109ecc0363fd3d9363fd3d9363fd3d9363fd3d9d2f23a06393fd3d9363fd3d9

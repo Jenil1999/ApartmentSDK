@@ -1,0 +1,261 @@
+2024-7-29
+Rendering UV GBuffer for SkyApartment_LM0 51
+RGBA32F...RGBA8...RGBA8_SRGB...RGBA16F...states...
+Rendering UV normal...
+Rendering faceted UV normal...
+Rendering UV pos...
+Rendering smooth UV pos...
+Rendering UV GBuffer for SkyApartment_LMA1 51
+RGBA32F...RGBA8...RGBA8_SRGB...RGBA16F...states...
+Rendering UV normal...
+Rendering faceted UV normal...
+Rendering UV pos...
+Rendering smooth UV pos...
+Rendering UV GBuffer for SkyApartment_LMA2 51
+RGBA32F...RGBA8...RGBA8_SRGB...RGBA16F...states...
+Rendering UV normal...
+Rendering faceted UV normal...
+Rendering UV pos...
+Rendering smooth UV pos...
+Done
+Done
+Running ftraceRTX fixpos12 "C:/Users/Yudiz solutions LTD/Desktop/BakeryTemp" "uvpos_SkyApartment_LM0.lz4" 2 0 0 0
+Running ftraceRTX fixpos12 "C:/Users/Yudiz solutions LTD/Desktop/BakeryTemp" "uvpos_SkyApartment_LMA1.lz4" 2 0 1 0
+Running ftraceRTX fixpos12 "C:/Users/Yudiz solutions LTD/Desktop/BakeryTemp" "uvpos_SkyApartment_LMA2.lz4" 2 0 2 0
+Running ftraceRTX arealight "C:/Users/Yudiz solutions LTD/Desktop/BakeryTemp" "light_1_0" 4 0 0 lights0.bin
+Running ftraceRTX arealight "C:/Users/Yudiz solutions LTD/Desktop/BakeryTemp" "light_2_0" 4 0 0 lights1.bin
+Running ftraceRTX arealight "C:/Users/Yudiz solutions LTD/Desktop/BakeryTemp" "light_3_0" 4 0 0 lights2.bin
+Running ftraceRTX arealight "C:/Users/Yudiz solutions LTD/Desktop/BakeryTemp" "light_4_0" 4 0 0 lights3.bin
+Running ftraceRTX arealight "C:/Users/Yudiz solutions LTD/Desktop/BakeryTemp" "light_5_0" 4 0 0 lights4.bin
+Running ftraceRTX arealight "C:/Users/Yudiz solutions LTD/Desktop/BakeryTemp" "light_6_0" 4 0 0 lights5.bin
+Running ftraceRTX arealight "C:/Users/Yudiz solutions LTD/Desktop/BakeryTemp" "light_7_0" 4 0 0 lights6.bin
+Running ftraceRTX arealight "C:/Users/Yudiz solutions LTD/Desktop/BakeryTemp" "light_8_0" 4 0 0 lights7.bin
+Running ftraceRTX arealight "C:/Users/Yudiz solutions LTD/Desktop/BakeryTemp" "light_9_0" 4 0 0 lights8.bin
+Running ftraceRTX sky "C:/Users/Yudiz solutions LTD/Desktop/BakeryTemp" "light_10_0" 4 0 0 sky0.bin
+Running ftraceRTX sun "C:/Users/Yudiz solutions LTD/Desktop/BakeryTemp" "light_11_0" 4 0 0 direct0.bin
+Running ftraceRTX addmul "C:/Users/Yudiz solutions LTD/Desktop/BakeryTemp" "SkyApartment_LM0" 4 0 0 comp_0.bin
+Running ftraceRTX arealight "C:/Users/Yudiz solutions LTD/Desktop/BakeryTemp" "light_1_1" 4 0 1 lights0.bin
+Running ftraceRTX arealight "C:/Users/Yudiz solutions LTD/Desktop/BakeryTemp" "light_2_1" 4 0 1 lights1.bin
+Running ftraceRTX arealight "C:/Users/Yudiz solutions LTD/Desktop/BakeryTemp" "light_3_1" 4 0 1 lights2.bin
+Running ftraceRTX arealight "C:/Users/Yudiz solutions LTD/Desktop/BakeryTemp" "light_4_1" 4 0 1 lights3.bin
+Running ftraceRTX arealight "C:/Users/Yudiz solutions LTD/Desktop/BakeryTemp" "light_5_1" 4 0 1 lights4.bin
+Running ftraceRTX arealight "C:/Users/Yudiz solutions LTD/Desktop/BakeryTemp" "light_6_1" 4 0 1 lights5.bin
+Running ftraceRTX arealight "C:/Users/Yudiz solutions LTD/Desktop/BakeryTemp" "light_7_1" 4 0 1 lights6.bin
+Running ftraceRTX arealight "C:/Users/Yudiz solutions LTD/Desktop/BakeryTemp" "light_8_1" 4 0 1 lights7.bin
+Running ftraceRTX arealight "C:/Users/Yudiz solutions LTD/Desktop/BakeryTemp" "light_9_1" 4 0 1 lights8.bin
+Running ftraceRTX sky "C:/Users/Yudiz solutions LTD/Desktop/BakeryTemp" "light_10_1" 4 0 1 sky0.bin
+Running ftraceRTX sun "C:/Users/Yudiz solutions LTD/Desktop/BakeryTemp" "light_11_1" 4 0 1 direct0.bin
+Running ftraceRTX addmul "C:/Users/Yudiz solutions LTD/Desktop/BakeryTemp" "SkyApartment_LMA1" 4 0 1 comp_1.bin
+Running ftraceRTX arealight "C:/Users/Yudiz solutions LTD/Desktop/BakeryTemp" "light_2_2" 4 0 2 lights1.bin
+Running ftraceRTX arealight "C:/Users/Yudiz solutions LTD/Desktop/BakeryTemp" "light_3_2" 4 0 2 lights2.bin
+Running ftraceRTX arealight "C:/Users/Yudiz solutions LTD/Desktop/BakeryTemp" "light_4_2" 4 0 2 lights3.bin
+Running ftraceRTX arealight "C:/Users/Yudiz solutions LTD/Desktop/BakeryTemp" "light_5_2" 4 0 2 lights4.bin
+Running ftraceRTX arealight "C:/Users/Yudiz solutions LTD/Desktop/BakeryTemp" "light_8_2" 4 0 2 lights7.bin
+Running ftraceRTX arealight "C:/Users/Yudiz solutions LTD/Desktop/BakeryTemp" "light_9_2" 4 0 2 lights8.bin
+Running ftraceRTX sky "C:/Users/Yudiz solutions LTD/Desktop/BakeryTemp" "light_10_2" 4 0 2 sky0.bin
+Running ftraceRTX sun "C:/Users/Yudiz solutions LTD/Desktop/BakeryTemp" "light_11_2" 4 0 2 direct0.bin
+Running ftraceRTX addmul "C:/Users/Yudiz solutions LTD/Desktop/BakeryTemp" "SkyApartment_LMA2" 4 0 2 comp_2.bin
+Running ftraceRTX texgi "C:/Users/Yudiz solutions LTD/Desktop/BakeryTemp" "SkyApartment_LM0_diffuse" 4 16 0 "gi_SkyApartment_LM00.bin" "SkyApartment_LM0_diffuse0_HDR.lz4" vbTraceTex.bin
+Running ftraceRTX texgi "C:/Users/Yudiz solutions LTD/Desktop/BakeryTemp" "SkyApartment_LMA1_diffuse" 4 16 1 "gi_SkyApartment_LMA10.bin" "SkyApartment_LMA1_diffuse0_HDR.lz4" vbTraceTex.bin
+Running ftraceRTX texgi "C:/Users/Yudiz solutions LTD/Desktop/BakeryTemp" "SkyApartment_LMA2_diffuse" 4 16 2 "gi_SkyApartment_LMA20.bin" "SkyApartment_LMA2_diffuse0_HDR.lz4" vbTraceTex.bin
+Running ftraceRTX texgi "C:/Users/Yudiz solutions LTD/Desktop/BakeryTemp" "SkyApartment_LM0_diffuse" 4 16 0 "gi_SkyApartment_LM01.bin" "SkyApartment_LM0_diffuse0_HDR.lz4" vbTraceTex.bin
+Running ftraceRTX texgi "C:/Users/Yudiz solutions LTD/Desktop/BakeryTemp" "SkyApartment_LMA1_diffuse" 4 16 1 "gi_SkyApartment_LMA11.bin" "SkyApartment_LMA1_diffuse0_HDR.lz4" vbTraceTex.bin
+Running ftraceRTX texgi "C:/Users/Yudiz solutions LTD/Desktop/BakeryTemp" "SkyApartment_LMA2_diffuse" 4 16 2 "gi_SkyApartment_LMA21.bin" "SkyApartment_LMA2_diffuse0_HDR.lz4" vbTraceTex.bin
+Running ftraceRTX texgi "C:/Users/Yudiz solutions LTD/Desktop/BakeryTemp" "SkyApartment_LM0_diffuse" 4 16 0 "gi_SkyApartment_LM02.bin" "SkyApartment_LM0_diffuse0_HDR.lz4" vbTraceTex.bin
+Running ftraceRTX texgi "C:/Users/Yudiz solutions LTD/Desktop/BakeryTemp" "SkyApartment_LMA1_diffuse" 4 16 1 "gi_SkyApartment_LMA12.bin" "SkyApartment_LMA1_diffuse0_HDR.lz4" vbTraceTex.bin
+Running ftraceRTX texgi "C:/Users/Yudiz solutions LTD/Desktop/BakeryTemp" "SkyApartment_LMA2_diffuse" 4 16 2 "gi_SkyApartment_LMA22.bin" "SkyApartment_LMA2_diffuse0_HDR.lz4" vbTraceTex.bin
+Running ftraceRTX texgi "C:/Users/Yudiz solutions LTD/Desktop/BakeryTemp" "SkyApartment_LM0_diffuse" 4 16 0 "gi_SkyApartment_LM03.bin" "SkyApartment_LM0_diffuse0_HDR.lz4" vbTraceTex.bin
+Running ftraceRTX texgi "C:/Users/Yudiz solutions LTD/Desktop/BakeryTemp" "SkyApartment_LMA1_diffuse" 4 16 1 "gi_SkyApartment_LMA13.bin" "SkyApartment_LMA1_diffuse0_HDR.lz4" vbTraceTex.bin
+Running ftraceRTX texgi "C:/Users/Yudiz solutions LTD/Desktop/BakeryTemp" "SkyApartment_LMA2_diffuse" 4 16 2 "gi_SkyApartment_LMA23.bin" "SkyApartment_LMA2_diffuse0_HDR.lz4" vbTraceTex.bin
+Running ftraceRTX texgi "C:/Users/Yudiz solutions LTD/Desktop/BakeryTemp" "SkyApartment_LM0_final" 4 16 0 "gi_SkyApartment_LM04.bin" "SkyApartment_LM0_lights_HDR.lz4" vbTraceTex.bin
+Running ftraceRTX texgi "C:/Users/Yudiz solutions LTD/Desktop/BakeryTemp" "SkyApartment_LMA1_final" 4 16 1 "gi_SkyApartment_LMA14.bin" "SkyApartment_LMA1_lights_HDR.lz4" vbTraceTex.bin
+Running ftraceRTX texgi "C:/Users/Yudiz solutions LTD/Desktop/BakeryTemp" "SkyApartment_LMA2_final" 4 16 2 "gi_SkyApartment_LMA24.bin" "SkyApartment_LMA2_lights_HDR.lz4" vbTraceTex.bin
+Running denoiserOIDN c "C:/Users/Yudiz solutions LTD/Desktop/BakeryTemp/SkyApartment_LM0_final_HDR.lz4" "C:/Users/Yudiz solutions LTD/Desktop/BakeryTemp/SkyApartment_LM0_final_HDR.lz4" 2048 0
+Running seamfixer "C:/Users/Yudiz solutions LTD/Desktop/BakeryTemp" "0" "SkyApartment_LM0_final_HDR.lz4"
+Running denoiserOIDN c "C:/Users/Yudiz solutions LTD/Desktop/BakeryTemp/SkyApartment_LMA1_final_HDR.lz4" "C:/Users/Yudiz solutions LTD/Desktop/BakeryTemp/SkyApartment_LMA1_final_HDR.lz4" 2048 0
+Running seamfixer "C:/Users/Yudiz solutions LTD/Desktop/BakeryTemp" "1" "SkyApartment_LMA1_final_HDR.lz4"
+Running denoiserOIDN c "C:/Users/Yudiz solutions LTD/Desktop/BakeryTemp/SkyApartment_LMA2_final_HDR.lz4" "C:/Users/Yudiz solutions LTD/Desktop/BakeryTemp/SkyApartment_LMA2_final_HDR.lz4" 512 0
+Running seamfixer "C:/Users/Yudiz solutions LTD/Desktop/BakeryTemp" "2" "SkyApartment_LMA2_final_HDR.lz4"
+Running halffloat2hdr "C:/Users/Yudiz solutions LTD/Desktop/BakeryTemp/SkyApartment_LM0_final_HDR.lz4" "C:/Users/Yudiz solutions LTD/Desktop/Valt_SDK/ApartmentSDK/Assets/Apartment_SDK/SkyApartment/SkyApartment_LM0_final.hdr" 1024
+Running halffloat2hdr "C:/Users/Yudiz solutions LTD/Desktop/BakeryTemp/SkyApartment_LMA1_final_HDR.lz4" "C:/Users/Yudiz solutions LTD/Desktop/Valt_SDK/ApartmentSDK/Assets/Apartment_SDK/SkyApartment/SkyApartment_LMA1_final.hdr" 1024
+Running halffloat2hdr "C:/Users/Yudiz solutions LTD/Desktop/BakeryTemp/SkyApartment_LMA2_final_HDR.lz4" "C:/Users/Yudiz solutions LTD/Desktop/Valt_SDK/ApartmentSDK/Assets/Apartment_SDK/SkyApartment/SkyApartment_LMA2_final.hdr" 1024
+Symbol file LoadedFromMemory doesn't match image C:\Users\Yudiz solutions LTD\Desktop\Valt_SDK\ApartmentSDK\Library\PackageCache\com.unity.visualscripting@1.7.7\Editor\VisualScripting.Core\Dependencies\DotNetZip\Unity.VisualScripting.IonicZip.dll
+Symbol file LoadedFromMemory doesn't match image C:\Users\Yudiz solutions LTD\Desktop\Valt_SDK\ApartmentSDK\Library\PackageCache\com.unity.visualscripting@1.7.7\Editor\VisualScripting.Core\Dependencies\YamlDotNet\Unity.VisualScripting.YamlDotNet.dll
+Symbol file LoadedFromMemory doesn't match image C:\Users\Yudiz solutions LTD\Desktop\Valt_SDK\ApartmentSDK\Library\PackageCache\com.unity.visualscripting@1.7.7\Editor\VisualScripting.Core\Dependencies\DotNetZip\Unity.VisualScripting.IonicZip.dll
+Symbol file LoadedFromMemory doesn't match image C:\Users\Yudiz solutions LTD\Desktop\Valt_SDK\ApartmentSDK\Library\PackageCache\com.unity.visualscripting@1.7.7\Editor\VisualScripting.Core\Dependencies\YamlDotNet\Unity.VisualScripting.YamlDotNet.dll
+Symbol file LoadedFromMemory doesn't match image C:\Users\Yudiz solutions LTD\Desktop\Valt_SDK\ApartmentSDK\Library\PackageCache\com.unity.visualscripting@1.7.7\Editor\VisualScripting.Core\Dependencies\DotNetZip\Unity.VisualScripting.IonicZip.dll
+Symbol file LoadedFromMemory doesn't match image C:\Users\Yudiz solutions LTD\Desktop\Valt_SDK\ApartmentSDK\Library\PackageCache\com.unity.visualscripting@1.7.7\Editor\VisualScripting.Core\Dependencies\YamlDotNet\Unity.VisualScripting.YamlDotNet.dll
+Symbol file LoadedFromMemory doesn't match image C:\Users\Yudiz solutions LTD\Desktop\Valt_SDK\ApartmentSDK\Library\PackageCache\com.unity.visualscripting@1.7.7\Editor\VisualScripting.Core\Dependencies\DotNetZip\Unity.VisualScripting.IonicZip.dll
+Symbol file LoadedFromMemory doesn't match image C:\Users\Yudiz solutions LTD\Desktop\Valt_SDK\ApartmentSDK\Library\PackageCache\com.unity.visualscripting@1.7.7\Editor\VisualScripting.Core\Dependencies\YamlDotNet\Unity.VisualScripting.YamlDotNet.dll
+Symbol file LoadedFromMemory doesn't match image C:\Users\Yudiz solutions LTD\Desktop\Valt_SDK\ApartmentSDK\Library\PackageCache\com.unity.visualscripting@1.7.7\Editor\VisualScripting.Core\Dependencies\DotNetZip\Unity.VisualScripting.IonicZip.dll
+Symbol file LoadedFromMemory doesn't match image C:\Users\Yudiz solutions LTD\Desktop\Valt_SDK\ApartmentSDK\Library\PackageCache\com.unity.visualscripting@1.7.7\Editor\VisualScripting.Core\Dependencies\YamlDotNet\Unity.VisualScripting.YamlDotNet.dll
+Symbol file LoadedFromMemory doesn't match image C:\Users\Yudiz solutions LTD\Desktop\Valt_SDK\ApartmentSDK\Library\PackageCache\com.unity.visualscripting@1.7.7\Editor\VisualScripting.Core\Dependencies\DotNetZip\Unity.VisualScripting.IonicZip.dll
+Symbol file LoadedFromMemory doesn't match image C:\Users\Yudiz solutions LTD\Desktop\Valt_SDK\ApartmentSDK\Library\PackageCache\com.unity.visualscripting@1.7.7\Editor\VisualScripting.Core\Dependencies\YamlDotNet\Unity.VisualScripting.YamlDotNet.dll
+2024-7-30
+Rendering UV GBuffer for SkyApartment_LM0 51
+RGBA32F...RGBA8...RGBA8_SRGB...RGBA16F...states...
+Rendering UV normal...
+Rendering faceted UV normal...
+Rendering UV pos...
+Rendering smooth UV pos...
+Rendering UV GBuffer for SkyApartment_LMA1 51
+RGBA32F...RGBA8...RGBA8_SRGB...RGBA16F...states...
+Rendering UV normal...
+Rendering faceted UV normal...
+Rendering UV pos...
+Rendering smooth UV pos...
+Rendering UV GBuffer for SkyApartment_LMA2 51
+RGBA32F...RGBA8...RGBA8_SRGB...RGBA16F...states...
+Rendering UV normal...
+Rendering faceted UV normal...
+Rendering UV pos...
+Rendering smooth UV pos...
+Done
+Done
+Running ftraceRTX fixpos12 "C:/Users/Yudiz solutions LTD/Desktop/BakeryTemp" "uvpos_SkyApartment_LM0.lz4" 2 0 0 0
+Running ftraceRTX fixpos12 "C:/Users/Yudiz solutions LTD/Desktop/BakeryTemp" "uvpos_SkyApartment_LMA1.lz4" 2 0 1 0
+Running ftraceRTX fixpos12 "C:/Users/Yudiz solutions LTD/Desktop/BakeryTemp" "uvpos_SkyApartment_LMA2.lz4" 2 0 2 0
+Running ftraceRTX arealight "C:/Users/Yudiz solutions LTD/Desktop/BakeryTemp" "light_1_0" 4 0 0 lights0.bin
+Running ftraceRTX arealight "C:/Users/Yudiz solutions LTD/Desktop/BakeryTemp" "light_2_0" 4 0 0 lights1.bin
+Running ftraceRTX arealight "C:/Users/Yudiz solutions LTD/Desktop/BakeryTemp" "light_3_0" 4 0 0 lights2.bin
+Running ftraceRTX arealight "C:/Users/Yudiz solutions LTD/Desktop/BakeryTemp" "light_4_0" 4 0 0 lights3.bin
+Running ftraceRTX arealight "C:/Users/Yudiz solutions LTD/Desktop/BakeryTemp" "light_5_0" 4 0 0 lights4.bin
+Running ftraceRTX arealight "C:/Users/Yudiz solutions LTD/Desktop/BakeryTemp" "light_6_0" 4 0 0 lights5.bin
+Running ftraceRTX arealight "C:/Users/Yudiz solutions LTD/Desktop/BakeryTemp" "light_7_0" 4 0 0 lights6.bin
+Running ftraceRTX arealight "C:/Users/Yudiz solutions LTD/Desktop/BakeryTemp" "light_8_0" 4 0 0 lights7.bin
+Running ftraceRTX arealight "C:/Users/Yudiz solutions LTD/Desktop/BakeryTemp" "light_9_0" 4 0 0 lights8.bin
+Running ftraceRTX sky "C:/Users/Yudiz solutions LTD/Desktop/BakeryTemp" "light_10_0" 4 0 0 sky0.bin
+Running ftraceRTX sun "C:/Users/Yudiz solutions LTD/Desktop/BakeryTemp" "light_11_0" 4 0 0 direct0.bin
+Running ftraceRTX addmul "C:/Users/Yudiz solutions LTD/Desktop/BakeryTemp" "SkyApartment_LM0" 4 0 0 comp_0.bin
+Running ftraceRTX arealight "C:/Users/Yudiz solutions LTD/Desktop/BakeryTemp" "light_1_1" 4 0 1 lights0.bin
+Running ftraceRTX arealight "C:/Users/Yudiz solutions LTD/Desktop/BakeryTemp" "light_2_1" 4 0 1 lights1.bin
+Running ftraceRTX arealight "C:/Users/Yudiz solutions LTD/Desktop/BakeryTemp" "light_3_1" 4 0 1 lights2.bin
+Running ftraceRTX arealight "C:/Users/Yudiz solutions LTD/Desktop/BakeryTemp" "light_4_1" 4 0 1 lights3.bin
+Running ftraceRTX arealight "C:/Users/Yudiz solutions LTD/Desktop/BakeryTemp" "light_5_1" 4 0 1 lights4.bin
+Running ftraceRTX arealight "C:/Users/Yudiz solutions LTD/Desktop/BakeryTemp" "light_6_1" 4 0 1 lights5.bin
+Running ftraceRTX arealight "C:/Users/Yudiz solutions LTD/Desktop/BakeryTemp" "light_7_1" 4 0 1 lights6.bin
+Running ftraceRTX arealight "C:/Users/Yudiz solutions LTD/Desktop/BakeryTemp" "light_8_1" 4 0 1 lights7.bin
+Running ftraceRTX arealight "C:/Users/Yudiz solutions LTD/Desktop/BakeryTemp" "light_9_1" 4 0 1 lights8.bin
+Running ftraceRTX sky "C:/Users/Yudiz solutions LTD/Desktop/BakeryTemp" "light_10_1" 4 0 1 sky0.bin
+Running ftraceRTX sun "C:/Users/Yudiz solutions LTD/Desktop/BakeryTemp" "light_11_1" 4 0 1 direct0.bin
+Running ftraceRTX addmul "C:/Users/Yudiz solutions LTD/Desktop/BakeryTemp" "SkyApartment_LMA1" 4 0 1 comp_1.bin
+Running ftraceRTX arealight "C:/Users/Yudiz solutions LTD/Desktop/BakeryTemp" "light_2_2" 4 0 2 lights1.bin
+Running ftraceRTX arealight "C:/Users/Yudiz solutions LTD/Desktop/BakeryTemp" "light_3_2" 4 0 2 lights2.bin
+Running ftraceRTX arealight "C:/Users/Yudiz solutions LTD/Desktop/BakeryTemp" "light_4_2" 4 0 2 lights3.bin
+Running ftraceRTX arealight "C:/Users/Yudiz solutions LTD/Desktop/BakeryTemp" "light_5_2" 4 0 2 lights4.bin
+Running ftraceRTX arealight "C:/Users/Yudiz solutions LTD/Desktop/BakeryTemp" "light_8_2" 4 0 2 lights7.bin
+Running ftraceRTX arealight "C:/Users/Yudiz solutions LTD/Desktop/BakeryTemp" "light_9_2" 4 0 2 lights8.bin
+Running ftraceRTX sky "C:/Users/Yudiz solutions LTD/Desktop/BakeryTemp" "light_10_2" 4 0 2 sky0.bin
+Running ftraceRTX sun "C:/Users/Yudiz solutions LTD/Desktop/BakeryTemp" "light_11_2" 4 0 2 direct0.bin
+Running ftraceRTX addmul "C:/Users/Yudiz solutions LTD/Desktop/BakeryTemp" "SkyApartment_LMA2" 4 0 2 comp_2.bin
+Running ftraceRTX texgi "C:/Users/Yudiz solutions LTD/Desktop/BakeryTemp" "SkyApartment_LM0_diffuse" 4 16 0 "gi_SkyApartment_LM00.bin" "SkyApartment_LM0_diffuse0_HDR.lz4" vbTraceTex.bin
+Running ftraceRTX texgi "C:/Users/Yudiz solutions LTD/Desktop/BakeryTemp" "SkyApartment_LMA1_diffuse" 4 16 1 "gi_SkyApartment_LMA10.bin" "SkyApartment_LMA1_diffuse0_HDR.lz4" vbTraceTex.bin
+Running ftraceRTX texgi "C:/Users/Yudiz solutions LTD/Desktop/BakeryTemp" "SkyApartment_LMA2_diffuse" 4 16 2 "gi_SkyApartment_LMA20.bin" "SkyApartment_LMA2_diffuse0_HDR.lz4" vbTraceTex.bin
+Running ftraceRTX texgi "C:/Users/Yudiz solutions LTD/Desktop/BakeryTemp" "SkyApartment_LM0_diffuse" 4 16 0 "gi_SkyApartment_LM01.bin" "SkyApartment_LM0_diffuse0_HDR.lz4" vbTraceTex.bin
+Running ftraceRTX texgi "C:/Users/Yudiz solutions LTD/Desktop/BakeryTemp" "SkyApartment_LMA1_diffuse" 4 16 1 "gi_SkyApartment_LMA11.bin" "SkyApartment_LMA1_diffuse0_HDR.lz4" vbTraceTex.bin
+Running ftraceRTX texgi "C:/Users/Yudiz solutions LTD/Desktop/BakeryTemp" "SkyApartment_LMA2_diffuse" 4 16 2 "gi_SkyApartment_LMA21.bin" "SkyApartment_LMA2_diffuse0_HDR.lz4" vbTraceTex.bin
+Running ftraceRTX texgi "C:/Users/Yudiz solutions LTD/Desktop/BakeryTemp" "SkyApartment_LM0_diffuse" 4 16 0 "gi_SkyApartment_LM02.bin" "SkyApartment_LM0_diffuse0_HDR.lz4" vbTraceTex.bin
+Running ftraceRTX texgi "C:/Users/Yudiz solutions LTD/Desktop/BakeryTemp" "SkyApartment_LMA1_diffuse" 4 16 1 "gi_SkyApartment_LMA12.bin" "SkyApartment_LMA1_diffuse0_HDR.lz4" vbTraceTex.bin
+Running ftraceRTX texgi "C:/Users/Yudiz solutions LTD/Desktop/BakeryTemp" "SkyApartment_LMA2_diffuse" 4 16 2 "gi_SkyApartment_LMA22.bin" "SkyApartment_LMA2_diffuse0_HDR.lz4" vbTraceTex.bin
+Running ftraceRTX texgi "C:/Users/Yudiz solutions LTD/Desktop/BakeryTemp" "SkyApartment_LM0_diffuse" 4 16 0 "gi_SkyApartment_LM03.bin" "SkyApartment_LM0_diffuse0_HDR.lz4" vbTraceTex.bin
+Running ftraceRTX texgi "C:/Users/Yudiz solutions LTD/Desktop/BakeryTemp" "SkyApartment_LMA1_diffuse" 4 16 1 "gi_SkyApartment_LMA13.bin" "SkyApartment_LMA1_diffuse0_HDR.lz4" vbTraceTex.bin
+Running ftraceRTX texgi "C:/Users/Yudiz solutions LTD/Desktop/BakeryTemp" "SkyApartment_LMA2_diffuse" 4 16 2 "gi_SkyApartment_LMA23.bin" "SkyApartment_LMA2_diffuse0_HDR.lz4" vbTraceTex.bin
+Running ftraceRTX texgi "C:/Users/Yudiz solutions LTD/Desktop/BakeryTemp" "SkyApartment_LM0_final" 4 16 0 "gi_SkyApartment_LM04.bin" "SkyApartment_LM0_lights_HDR.lz4" vbTraceTex.bin
+Running ftraceRTX texgi "C:/Users/Yudiz solutions LTD/Desktop/BakeryTemp" "SkyApartment_LMA1_final" 4 16 1 "gi_SkyApartment_LMA14.bin" "SkyApartment_LMA1_lights_HDR.lz4" vbTraceTex.bin
+Running ftraceRTX texgi "C:/Users/Yudiz solutions LTD/Desktop/BakeryTemp" "SkyApartment_LMA2_final" 4 16 2 "gi_SkyApartment_LMA24.bin" "SkyApartment_LMA2_lights_HDR.lz4" vbTraceTex.bin
+Running denoiserOIDN c "C:/Users/Yudiz solutions LTD/Desktop/BakeryTemp/SkyApartment_LM0_final_HDR.lz4" "C:/Users/Yudiz solutions LTD/Desktop/BakeryTemp/SkyApartment_LM0_final_HDR.lz4" 2048 0
+Running seamfixer "C:/Users/Yudiz solutions LTD/Desktop/BakeryTemp" "0" "SkyApartment_LM0_final_HDR.lz4"
+Running denoiserOIDN c "C:/Users/Yudiz solutions LTD/Desktop/BakeryTemp/SkyApartment_LMA1_final_HDR.lz4" "C:/Users/Yudiz solutions LTD/Desktop/BakeryTemp/SkyApartment_LMA1_final_HDR.lz4" 2048 0
+Running seamfixer "C:/Users/Yudiz solutions LTD/Desktop/BakeryTemp" "1" "SkyApartment_LMA1_final_HDR.lz4"
+Running denoiserOIDN c "C:/Users/Yudiz solutions LTD/Desktop/BakeryTemp/SkyApartment_LMA2_final_HDR.lz4" "C:/Users/Yudiz solutions LTD/Desktop/BakeryTemp/SkyApartment_LMA2_final_HDR.lz4" 512 0
+Running seamfixer "C:/Users/Yudiz solutions LTD/Desktop/BakeryTemp" "2" "SkyApartment_LMA2_final_HDR.lz4"
+Running halffloat2hdr "C:/Users/Yudiz solutions LTD/Desktop/BakeryTemp/SkyApartment_LM0_final_HDR.lz4" "C:/Users/Yudiz solutions LTD/Desktop/Valt_SDK/ApartmentSDK/Assets/Apartment_SDK/SkyApartment/SkyApartment_LM0_final.hdr" 1024
+Running halffloat2hdr "C:/Users/Yudiz solutions LTD/Desktop/BakeryTemp/SkyApartment_LMA1_final_HDR.lz4" "C:/Users/Yudiz solutions LTD/Desktop/Valt_SDK/ApartmentSDK/Assets/Apartment_SDK/SkyApartment/SkyApartment_LMA1_final.hdr" 1024
+Running halffloat2hdr "C:/Users/Yudiz solutions LTD/Desktop/BakeryTemp/SkyApartment_LMA2_final_HDR.lz4" "C:/Users/Yudiz solutions LTD/Desktop/Valt_SDK/ApartmentSDK/Assets/Apartment_SDK/SkyApartment/SkyApartment_LMA2_final.hdr" 1024
+Loaded vertex shader: quad.vso
+Loaded pixel shader: skyOutput.pso
+Loaded pixel shader: cookieOutput.pso
+initShaders done
+initScene done
+Num alphas of 2048x2048: 3
+Done
+Rendering UV GBuffer for SkyApartment_LM0 51
+RGBA32F...RGBA8...RGBA8_SRGB...RGBA16F...states...
+Rendering UV normal...
+Rendering faceted UV normal...
+Rendering UV pos...
+Rendering smooth UV pos...
+Rendering UV GBuffer for SkyApartment_LMA1 51
+RGBA32F...RGBA8...RGBA8_SRGB...RGBA16F...states...
+Rendering UV normal...
+Rendering faceted UV normal...
+Rendering UV pos...
+Rendering smooth UV pos...
+Rendering UV GBuffer for SkyApartment_LMA2 51
+RGBA32F...RGBA8...RGBA8_SRGB...RGBA16F...states...
+Rendering UV normal...
+Rendering faceted UV normal...
+Rendering UV pos...
+Rendering smooth UV pos...
+Done
+Done
+Running ftraceRTX fixpos12 "C:/Users/Yudiz solutions LTD/Desktop/BakeryTemp" "uvpos_SkyApartment_LM0.lz4" 2 0 0 0
+Running ftraceRTX fixpos12 "C:/Users/Yudiz solutions LTD/Desktop/BakeryTemp" "uvpos_SkyApartment_LMA1.lz4" 2 0 1 0
+Running ftraceRTX fixpos12 "C:/Users/Yudiz solutions LTD/Desktop/BakeryTemp" "uvpos_SkyApartment_LMA2.lz4" 2 0 2 0
+Running ftraceRTX arealight "C:/Users/Yudiz solutions LTD/Desktop/BakeryTemp" "light_1_0" 4 0 0 lights0.bin
+Running ftraceRTX arealight "C:/Users/Yudiz solutions LTD/Desktop/BakeryTemp" "light_2_0" 4 0 0 lights1.bin
+Running ftraceRTX arealight "C:/Users/Yudiz solutions LTD/Desktop/BakeryTemp" "light_3_0" 4 0 0 lights2.bin
+Running ftraceRTX arealight "C:/Users/Yudiz solutions LTD/Desktop/BakeryTemp" "light_4_0" 4 0 0 lights3.bin
+Running ftraceRTX arealight "C:/Users/Yudiz solutions LTD/Desktop/BakeryTemp" "light_5_0" 4 0 0 lights4.bin
+Running ftraceRTX arealight "C:/Users/Yudiz solutions LTD/Desktop/BakeryTemp" "light_6_0" 4 0 0 lights5.bin
+Running ftraceRTX arealight "C:/Users/Yudiz solutions LTD/Desktop/BakeryTemp" "light_7_0" 4 0 0 lights6.bin
+Running ftraceRTX arealight "C:/Users/Yudiz solutions LTD/Desktop/BakeryTemp" "light_8_0" 4 0 0 lights7.bin
+Running ftraceRTX arealight "C:/Users/Yudiz solutions LTD/Desktop/BakeryTemp" "light_9_0" 4 0 0 lights8.bin
+Running ftraceRTX sky "C:/Users/Yudiz solutions LTD/Desktop/BakeryTemp" "light_10_0" 4 0 0 sky0.bin
+Running ftraceRTX sun "C:/Users/Yudiz solutions LTD/Desktop/BakeryTemp" "light_11_0" 4 0 0 direct0.bin
+Running ftraceRTX addmul "C:/Users/Yudiz solutions LTD/Desktop/BakeryTemp" "SkyApartment_LM0" 4 0 0 comp_0.bin
+Running ftraceRTX arealight "C:/Users/Yudiz solutions LTD/Desktop/BakeryTemp" "light_1_1" 4 0 1 lights0.bin
+Running ftraceRTX arealight "C:/Users/Yudiz solutions LTD/Desktop/BakeryTemp" "light_2_1" 4 0 1 lights1.bin
+Running ftraceRTX arealight "C:/Users/Yudiz solutions LTD/Desktop/BakeryTemp" "light_3_1" 4 0 1 lights2.bin
+Running ftraceRTX arealight "C:/Users/Yudiz solutions LTD/Desktop/BakeryTemp" "light_4_1" 4 0 1 lights3.bin
+Running ftraceRTX arealight "C:/Users/Yudiz solutions LTD/Desktop/BakeryTemp" "light_5_1" 4 0 1 lights4.bin
+Running ftraceRTX arealight "C:/Users/Yudiz solutions LTD/Desktop/BakeryTemp" "light_6_1" 4 0 1 lights5.bin
+Running ftraceRTX arealight "C:/Users/Yudiz solutions LTD/Desktop/BakeryTemp" "light_7_1" 4 0 1 lights6.bin
+Running ftraceRTX arealight "C:/Users/Yudiz solutions LTD/Desktop/BakeryTemp" "light_8_1" 4 0 1 lights7.bin
+Running ftraceRTX arealight "C:/Users/Yudiz solutions LTD/Desktop/BakeryTemp" "light_9_1" 4 0 1 lights8.bin
+Running ftraceRTX sky "C:/Users/Yudiz solutions LTD/Desktop/BakeryTemp" "light_10_1" 4 0 1 sky0.bin
+Running ftraceRTX sun "C:/Users/Yudiz solutions LTD/Desktop/BakeryTemp" "light_11_1" 4 0 1 direct0.bin
+Running ftraceRTX addmul "C:/Users/Yudiz solutions LTD/Desktop/BakeryTemp" "SkyApartment_LMA1" 4 0 1 comp_1.bin
+Running ftraceRTX arealight "C:/Users/Yudiz solutions LTD/Desktop/BakeryTemp" "light_2_2" 4 0 2 lights1.bin
+Running ftraceRTX arealight "C:/Users/Yudiz solutions LTD/Desktop/BakeryTemp" "light_3_2" 4 0 2 lights2.bin
+Running ftraceRTX arealight "C:/Users/Yudiz solutions LTD/Desktop/BakeryTemp" "light_4_2" 4 0 2 lights3.bin
+Running ftraceRTX arealight "C:/Users/Yudiz solutions LTD/Desktop/BakeryTemp" "light_5_2" 4 0 2 lights4.bin
+Running ftraceRTX arealight "C:/Users/Yudiz solutions LTD/Desktop/BakeryTemp" "light_8_2" 4 0 2 lights7.bin
+Running ftraceRTX arealight "C:/Users/Yudiz solutions LTD/Desktop/BakeryTemp" "light_9_2" 4 0 2 lights8.bin
+Running ftraceRTX sky "C:/Users/Yudiz solutions LTD/Desktop/BakeryTemp" "light_10_2" 4 0 2 sky0.bin
+Running ftraceRTX sun "C:/Users/Yudiz solutions LTD/Desktop/BakeryTemp" "light_11_2" 4 0 2 direct0.bin
+Running ftraceRTX addmul "C:/Users/Yudiz solutions LTD/Desktop/BakeryTemp" "SkyApartment_LMA2" 4 0 2 comp_2.bin
+Running ftraceRTX texgi "C:/Users/Yudiz solutions LTD/Desktop/BakeryTemp" "SkyApartment_LM0_diffuse" 4 16 0 "gi_SkyApartment_LM00.bin" "SkyApartment_LM0_diffuse0_HDR.lz4" vbTraceTex.bin
+Running ftraceRTX texgi "C:/Users/Yudiz solutions LTD/Desktop/BakeryTemp" "SkyApartment_LMA1_diffuse" 4 16 1 "gi_SkyApartment_LMA10.bin" "SkyApartment_LMA1_diffuse0_HDR.lz4" vbTraceTex.bin
+Running ftraceRTX texgi "C:/Users/Yudiz solutions LTD/Desktop/BakeryTemp" "SkyApartment_LMA2_diffuse" 4 16 2 "gi_SkyApartment_LMA20.bin" "SkyApartment_LMA2_diffuse0_HDR.lz4" vbTraceTex.bin
+Running ftraceRTX texgi "C:/Users/Yudiz solutions LTD/Desktop/BakeryTemp" "SkyApartment_LM0_diffuse" 4 16 0 "gi_SkyApartment_LM01.bin" "SkyApartment_LM0_diffuse0_HDR.lz4" vbTraceTex.bin
+Running ftraceRTX texgi "C:/Users/Yudiz solutions LTD/Desktop/BakeryTemp" "SkyApartment_LMA1_diffuse" 4 16 1 "gi_SkyApartment_LMA11.bin" "SkyApartment_LMA1_diffuse0_HDR.lz4" vbTraceTex.bin
+Running ftraceRTX texgi "C:/Users/Yudiz solutions LTD/Desktop/BakeryTemp" "SkyApartment_LMA2_diffuse" 4 16 2 "gi_SkyApartment_LMA21.bin" "SkyApartment_LMA2_diffuse0_HDR.lz4" vbTraceTex.bin
+Running ftraceRTX texgi "C:/Users/Yudiz solutions LTD/Desktop/BakeryTemp" "SkyApartment_LM0_diffuse" 4 16 0 "gi_SkyApartment_LM02.bin" "SkyApartment_LM0_diffuse0_HDR.lz4" vbTraceTex.bin
+Running ftraceRTX texgi "C:/Users/Yudiz solutions LTD/Desktop/BakeryTemp" "SkyApartment_LMA1_diffuse" 4 16 1 "gi_SkyApartment_LMA12.bin" "SkyApartment_LMA1_diffuse0_HDR.lz4" vbTraceTex.bin
+Running ftraceRTX texgi "C:/Users/Yudiz solutions LTD/Desktop/BakeryTemp" "SkyApartment_LMA2_diffuse" 4 16 2 "gi_SkyApartment_LMA22.bin" "SkyApartment_LMA2_diffuse0_HDR.lz4" vbTraceTex.bin
+Running ftraceRTX texgi "C:/Users/Yudiz solutions LTD/Desktop/BakeryTemp" "SkyApartment_LM0_diffuse" 4 16 0 "gi_SkyApartment_LM03.bin" "SkyApartment_LM0_diffuse0_HDR.lz4" vbTraceTex.bin
+Running ftraceRTX texgi "C:/Users/Yudiz solutions LTD/Desktop/BakeryTemp" "SkyApartment_LMA1_diffuse" 4 16 1 "gi_SkyApartment_LMA13.bin" "SkyApartment_LMA1_diffuse0_HDR.lz4" vbTraceTex.bin
+Running ftraceRTX texgi "C:/Users/Yudiz solutions LTD/Desktop/BakeryTemp" "SkyApartment_LMA2_diffuse" 4 16 2 "gi_SkyApartment_LMA23.bin" "SkyApartment_LMA2_diffuse0_HDR.lz4" vbTraceTex.bin
+Running ftraceRTX texgi "C:/Users/Yudiz solutions LTD/Desktop/BakeryTemp" "SkyApartment_LM0_final" 4 16 0 "gi_SkyApartment_LM04.bin" "SkyApartment_LM0_lights_HDR.lz4" vbTraceTex.bin
+Running ftraceRTX texgi "C:/Users/Yudiz solutions LTD/Desktop/BakeryTemp" "SkyApartment_LMA1_final" 4 16 1 "gi_SkyApartment_LMA14.bin" "SkyApartment_LMA1_lights_HDR.lz4" vbTraceTex.bin
+Running ftraceRTX texgi "C:/Users/Yudiz solutions LTD/Desktop/BakeryTemp" "SkyApartment_LMA2_final" 4 16 2 "gi_SkyApartment_LMA24.bin" "SkyApartment_LMA2_lights_HDR.lz4" vbTraceTex.bin
+Running denoiserOIDN c "C:/Users/Yudiz solutions LTD/Desktop/BakeryTemp/SkyApartment_LM0_final_HDR.lz4" "C:/Users/Yudiz solutions LTD/Desktop/BakeryTemp/SkyApartment_LM0_final_HDR.lz4" 2048 0
+Running seamfixer "C:/Users/Yudiz solutions LTD/Desktop/BakeryTemp" "0" "SkyApartment_LM0_final_HDR.lz4"
+Running denoiserOIDN c "C:/Users/Yudiz solutions LTD/Desktop/BakeryTemp/SkyApartment_LMA1_final_HDR.lz4" "C:/Users/Yudiz solutions LTD/Desktop/BakeryTemp/SkyApartment_LMA1_final_HDR.lz4" 2048 0
+Running seamfixer "C:/Users/Yudiz solutions LTD/Desktop/BakeryTemp" "1" "SkyApartment_LMA1_final_HDR.lz4"
+Running denoiserOIDN c "C:/Users/Yudiz solutions LTD/Desktop/BakeryTemp/SkyApartment_LMA2_final_HDR.lz4" "C:/Users/Yudiz solutions LTD/Desktop/BakeryTemp/SkyApartment_LMA2_final_HDR.lz4" 512 0
+Running seamfixer "C:/Users/Yudiz solutions LTD/Desktop/BakeryTemp" "2" "SkyApartment_LMA2_final_HDR.lz4"
+Running halffloat2hdr "C:/Users/Yudiz solutions LTD/Desktop/BakeryTemp/SkyApartment_LM0_final_HDR.lz4" "C:/Users/Yudiz solutions LTD/Desktop/Valt_SDK/ApartmentSDK/Assets/Apartment_SDK/SkyApartment/SkyApartment_LM0_final.hdr" 1024
+Running halffloat2hdr "C:/Users/Yudiz solutions LTD/Desktop/BakeryTemp/SkyApartment_LMA1_final_HDR.lz4" "C:/Users/Yudiz solutions LTD/Desktop/Valt_SDK/ApartmentSDK/Assets/Apartment_SDK/SkyApartment/SkyApartment_LMA1_final.hdr" 1024
+Running halffloat2hdr "C:/Users/Yudiz solutions LTD/Desktop/BakeryTemp/SkyApartment_LMA2_final_HDR.lz4" "C:/Users/Yudiz solutions LTD/Desktop/Valt_SDK/ApartmentSDK/Assets/Apartment_SDK/SkyApartment/SkyApartment_LMA2_final.hdr" 1024
